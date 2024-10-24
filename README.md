@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sricharan Andra</h1>
-<h3 align="center">An ambitious developer from India with a strong interest in Web3 Technologies and Smart Contract Development.</h3>
+<h3 align="center">An ambitious developer from India with a strong interest in Blockchain Development and Bitcoin Core.</h3>
 
 
 - 🔭 I’m currently working on [dash](https://github.com/sricharanandra/dash)
