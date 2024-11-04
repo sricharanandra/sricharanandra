@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on [dash](https://github.com/sricharanandra/dash)
 
-- 🌱 I’m currently learning **React.js, Rust, Typescript**
-
-- 👯 I’m looking to collaborate on [Tasker](https://github.com/sricharanandra/Tasker)
+- 🌱 I’m currently learning **Rust, Typescript**
 
 - ⚡ Fun fact **I can be the most productive or the least productive person you've ever seen. Depending on the Day.**
 
