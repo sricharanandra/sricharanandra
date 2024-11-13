@@ -2,7 +2,7 @@
 <h3 align="center">An ambitious developer from India with a strong interest in Blockchain Development and Bitcoin Core.</h3>
 
 
-- 🔭 I’m currently working on [dash](https://github.com/sricharanandra/dash)
+- 🔭 I’m currently working on [rustybrain](https://github.com/sricharanandra/rustybrain)
 
 - 🌱 I’m currently learning **Rust, Typescript**
 
