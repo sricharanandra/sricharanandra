@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sricharan Andra</h1>
-<h3 align="center">An ambitious developer from India with a strong interest in Blockchain Development and Bitcoin Core.</h3>
+<h3 align="center">An ambitious developer from India with a strong interest in blockchain development and building backend systems.
 
 
 - 🔭 I’m currently working on [rustybrain](https://github.com/sricharanandra/rustybrain) and [typewriter](https://github.com/sricharanandra/typewriter)
