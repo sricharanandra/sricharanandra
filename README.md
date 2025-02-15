@@ -2,7 +2,7 @@
 <h3 align="center">An ambitious developer from India with a strong interest in blockchain development and building backend systems.</h3>
 
 
-- 🔭 I’m currently working on [rustybrain](https://github.com/sricharanandra/rustybrain) and [typewriter](https://github.com/sricharanandra/typewriter)
+- 🔭 I’m currently working on [radiochat](https://github.com/sricharanandra/ts-radiochat) and [typewriter](https://github.com/sricharanandra/typewriter)
 
 - 🌱 I’m currently learning **Rust, Typescript**
 
